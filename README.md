@@ -1,1 +1,1 @@
-**This file is mandatory in projects**
+This is vargant 0x00 readme file
